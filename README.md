@@ -2,7 +2,7 @@
 <img src="src/frontend/static/icons/Hipster_HeroLogoCyan.svg" width="300"/>
 </p>
 
-
+[![cldcvr](https://a.cldcvr.com/product/dtc.png)](https://beta.cldcvr.app?url=https://github.com/vizkid/microservices-demo)
 
 **Online Boutique** is a cloud-native microservices demo application.
 Online Boutique consists of a 10-tier microservices application. The application is a
